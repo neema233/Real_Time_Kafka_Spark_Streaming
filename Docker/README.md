@@ -25,7 +25,10 @@ This is outlines the configuration for a Docker setup that integrates several se
 # Localhost Links for Docker Services
 
  For NameNode web UI `http://localhost:9870`
+ 
  For DataNode web UI `http://localhost:9864`
+ 
  For Spark Master  `http://localhost:8080`
+ 
  For Spark Worker  `http://localhost:8081`
  
